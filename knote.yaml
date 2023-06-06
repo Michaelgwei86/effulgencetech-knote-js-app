@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: avinashmamidi/knotejs:1.0
+          image: michaelgwei86/effulgencetech-knote-js-app:latest
           ports:
             - containerPort: 3000
           env:
